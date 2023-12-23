@@ -1,6 +1,6 @@
 # MERN Project
 
-I was playing around until I realized it was updated and couldn't change everything
+I was playing around until I realized it was very outdated and was out of my control
 
 # headache
 
